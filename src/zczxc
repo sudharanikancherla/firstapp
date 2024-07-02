@@ -42,7 +42,7 @@ const App = () => {
       {/* <label>Message</label> */}
       {/* <textarea name="message" /><br/> */}
       <TextField id="outlined-basic" label="Message" variant="outlined" type="text" name="message"  /><br/><br/>
-      <Button variant="contained" type="submit">Submit</Button>
+      <Button variant="contained">Submit</Button>
       {/* <input type="text" name="button" value="Submit"/> */}
       
     </form>
